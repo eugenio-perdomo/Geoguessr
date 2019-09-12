@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "157613485376",
+    "firebase_url": "https://mapita-251323.firebaseio.com",
+    "project_id": "mapita-251323",
+    "storage_bucket": "mapita-251323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157613485376:android:a25773a8d6c9e3e3",
+        "android_client_info": {
+          "package_name": "com.example.mapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157613485376-i4eamcte8g16dhbic2f97k0taptlj1kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapa",
+            "certificate_hash": "68a6155221833b1bc0503cdfb7a7d92642867054"
+          }
+        },
+        {
+          "client_id": "157613485376-qslvcsc9g75cqvv3hbf7p49a23tc890b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbB45flMxuLOtExXwaxwKPslk_DT6wYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157613485376-qslvcsc9g75cqvv3hbf7p49a23tc890b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
